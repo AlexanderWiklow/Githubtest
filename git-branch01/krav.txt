@@ -1,1 +1,5 @@
-Krav
+
+//Krav
+Första version av blogger
+Moduler: Mail, Navigation, Blog, 
+
